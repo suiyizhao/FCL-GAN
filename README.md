@@ -15,7 +15,7 @@ The implementation of FCL-GAN
 
 ### Usage
 #### Prepare dataset:
-Please ensure that the data organization matches the [code format](https://github.com/suiyizhao/FCL-FAN/blob/master/src/datasets.py#:~:text=self.img_paths%20%3D,sharp%27%20%2B%20%27/*/*.*%27))).
+Please ensure that the data organization matches the [code format](https://github.com/suiyizhao/FCL-FAN/blob/master/src/datasets.py#:~:text=self.img_paths%20%3D,sharp%27%20%2B%20%27/*/*.*%27)).
 
 #### Train:
 `python train.py --data_source /path/to/dataset --experiment your_experiment_name
