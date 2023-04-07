@@ -1,5 +1,5 @@
 # FCL-FAN
-The implementation of FCL-GAN
+The implementation of FCL-GAN.
 
 ### Dependencies
 - python 3.8.10
